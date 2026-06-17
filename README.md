@@ -7,6 +7,7 @@ C2PA Tool GUI Graphical user interface tested with c2patool-v0.26.67.  This is a
 Lokales Tool zum **Signieren und Prüfen von C2PA Content Credentials** für Dateien aus dem Video-Workflow (z. B. DaVinci Resolve). Die Oberfläche läuft als kleine, lokale Web-App im Browser; die eigentliche Signatur erledigt **c2patool** der Content Authenticity Initiative.
 
 > GUI-Idee: **TekNerds** – Nils Voss & Christian Homburg · Basis-Software: **c2patool (C2PA)**
+> Vielen Dank an Christian Michels für Lizenz Hinweise bei GitHub.
 
 ---
 
